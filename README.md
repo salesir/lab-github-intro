@@ -1,2 +1,2 @@
 # lab-github-intro
-for class, ignore
+This is Aryan's lab project for CSCI 150.
